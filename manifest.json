@@ -1,0 +1,18 @@
+{
+  "name": "Habit Tracker — Level Up",
+  "short_name": "HabitTracker",
+  "description": "Daily habit tracker - gamify your life!",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0a0e1a",
+  "theme_color": "#00d4ff",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
